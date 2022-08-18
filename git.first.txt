@@ -2,3 +2,4 @@ gitの練習用
 githubを学びます
 git add
 git commit
+git removed
