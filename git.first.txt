@@ -3,3 +3,4 @@ githubを学びます
 git add
 git commit
 git removed
+git status
